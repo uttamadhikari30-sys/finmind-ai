@@ -1,17 +1,5 @@
 {
   "name": "finmind-ai",
   "version": "1.0.0",
-  "description": "FINMIND AI – Edme MIS Platform",
-  "private": true,
-  "scripts": {
-    "dev": "serve public -p 3000",
-    "build": "echo 'Static site – no build needed'",
-    "start": "serve public -p 3000"
-  },
-  "dependencies": {
-    "serve": "^14.2.3"
-  },
-  "engines": {
-    "node": ">=18"
-  }
+  "private": true
 }
